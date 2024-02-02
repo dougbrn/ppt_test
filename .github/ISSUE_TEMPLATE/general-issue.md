@@ -9,4 +9,4 @@ assignees: ''
 
 **What's the problem/experience you had that motivated the creation of this ticket?**
 
-**Do you have any thoughts on a potential solution?
+**Do you have any thoughts on a potential solution?**
